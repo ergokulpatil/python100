@@ -1,0 +1,13 @@
+python primitive data type
+string, integer, float and boolean
+
+type error,type checking and type conversion
+
+mathmatical operation
+PEMDASLr
+Parenthesis
+Exponents
+Multiplication
+Division
+Addition
+Subtraction
