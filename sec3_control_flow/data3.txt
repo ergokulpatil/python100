@@ -1,0 +1,31 @@
+#control flow and logical
+
+if condition
+    do this
+else
+    do this
+
+comparision operator
+>    greater than
+<    less than
+>=   greater than equal
+<=
+==  equality
+!=  not equal
+
+nested if else
+multiple condition we can check
+if condition:
+    if another condition:
+        do this
+    else:
+        do this
+else:
+    do this
+
+if condition1:
+    do A 
+elif condition2:
+    do B
+else:
+    do this
