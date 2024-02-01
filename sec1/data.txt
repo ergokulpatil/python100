@@ -1,2 +1,5 @@
 This section contain
-1) String manipulation
+1) Purpose of this course
+2) Setup requirement 
+3) Python variable
+4) String manipulation

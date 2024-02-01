@@ -1,0 +1,4 @@
+python loop, range and code block
+for item in list_of_item
+    do something
+    

@@ -42,5 +42,6 @@
 # print(bmi)
 
 #use of f in the string printing
-score=0
-print(f"Your score is:{score}")
+# score=0
+# print(f"Your score is:{score}")
+
