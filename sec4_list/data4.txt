@@ -1,0 +1,8 @@
+python randomisation and list
+Data structure
+list-->element stored in sequence [item1, item2]
+
+
+#write progrma to select random name from list
+
+nested list
